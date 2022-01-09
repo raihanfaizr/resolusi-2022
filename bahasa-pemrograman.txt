@@ -1,6 +1,10 @@
 Rencana Bahasa Pemrograman
 
+- PHP
+  - CodeIgniter
 - Javascript
+  - React.js
 - Python
+  - Tensorflow
 - Java
 - Kotlin
